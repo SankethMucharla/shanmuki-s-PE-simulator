@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab - Power Electronics Virtual Laboratory",
+  "description": "Interactive Power Electronics Virtual Laboratory: real-time numerical simulation, interactive circuit schematics, synchronized conduction animation, multi-channel oscilloscope waveforms, FFT harmonic analysis, and theory validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
