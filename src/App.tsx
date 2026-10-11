@@ -216,7 +216,7 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t border-slate-900 bg-slate-950/80 py-4 px-6 text-center text-xs text-slate-500">
         <p>
-          RectifierLab · Power Electronics Numerical Virtual Laboratory · Rigorous Runge-Kutta 4th Order Time-Domain Simulation Engine
+          24EE10066 Shanmuki Sai Durga · Power Electronics Virtual Laboratory · Rigorous Runge-Kutta 4th Order Time-Domain Simulation Engine
         </p>
       </footer>
 

@@ -68,7 +68,7 @@ export const ExportModal: React.FC<ExportModalProps> = ({
   // Generate Laboratory Report Text
   const generateReport = () => {
     return `========================================================================
-POWER ELECTRONICS VIRTUAL LABORATORY - EXPERIMENT REPORT
+24EE10066 SHANMUKI SAI DURGA - POWER ELECTRONICS VIRTUAL LABORATORY
 Topology: ${result.config.topologyId}
 Generated: ${new Date().toLocaleString()}
 ========================================================================

@@ -31,7 +31,7 @@ export const Header: React.FC<HeaderProps> = ({
             <Zap className="w-4 h-4" />
           </div>
           <span className="text-base font-bold tracking-tight text-white whitespace-nowrap">
-            RectifierLab
+            24EE10066 Shanmuki Sai Durga
           </span>
           <span className="hidden sm:inline text-xs text-slate-400 border-l border-slate-700 pl-2.5">
             Power Electronics Virtual Laboratory
